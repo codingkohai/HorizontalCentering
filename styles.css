@@ -1,14 +1,18 @@
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+img.animatedgif{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
 body {
-    margin: 0;
-    padding: 0;
-}
-
-.box{
-    width: auto;
-}
-
-.box img {
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto;  
+    background-color: #312c31;
 }
